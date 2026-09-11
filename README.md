@@ -11,7 +11,7 @@ Aquí comparto proyectos de **electrónica, Arduino, robótica y DIY**, construi
 Estoy construyendo un pequeño robot desde cero, documentando todo el proceso: hardware, programación, conexiones y pruebas.
 
 📺 **Serie completa en YouTube:**
-[INVENTOS Y PROYECTOS](TU_ENLACE_DE_YOUTUBE)
+[INVENTOS Y PROYECTOS](www.youtube.com/@INVENTOSYPROYECTOS)
 
 ## 🚀 En este perfil encontrarás
 
